@@ -1,7 +1,12 @@
 Project : Virtual Rocket Blow Sensor, Ambience Mall, Gurgaon
 
-Contributors : Shanjit Singh Jajmann (sites.google.com/site/cuilyahoo)
-	       Rohit Dureja (rohitdureja.wordpress.com)
+Contributors : Shanjit Singh Jajmann
+	       shanjitsingh@gmail.com
+	       sites.google.com/site/cuilyahoo
+	       
+	       Rohit Dureja
+	       rohit.dureja@gmail.com
+	       rohitdureja.wordpress.com
 
 Description : 
 The project was implemented on a huge screen which ran a flash application. The flash application takes readings from the serial port and launches virtual rockets of the screen based on the intensity of the blow.
